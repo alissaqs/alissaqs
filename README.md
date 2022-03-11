@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alissaqs
+- 👋 Hi, I’m @alissaqs or Larissa >.<
 - 👀 I’m interested in movies (https://letterboxd.com/AlissaQz/), music (https://www.last.fm/pt/user/LarissaQz), series/animes (https://www.tvtime.com/en/user/23834020/profile) and cats
 - 🌱 I’m currently learning data science
 - 📫 How to reach me https://www.linkedin.com/in/larissaqs 
